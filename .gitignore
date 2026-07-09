@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# YOLO Model
+yolov8n.pt
+
+# Outputs
+outputs/*.mp4
+outputs/*.avi
+outputs/*.mov
+
+# Temporary Files
+temp/
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
